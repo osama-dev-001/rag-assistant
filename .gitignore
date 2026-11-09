@@ -1,0 +1,6 @@
+audios/*
+videos/*
+jsons/*
+!.gitkeep
+*.joblib
+__pycache__/
